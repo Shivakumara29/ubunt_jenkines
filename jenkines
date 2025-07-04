@@ -18,3 +18,5 @@ sudo apt-get update
   sudo apt-get install jenkins
 
 https://pkg.jenkins.io/debian-stable/
+
+After you login to Jenkins, - Run the command to copy the Jenkins Admin Password - sudo cat /var/lib/jenkins/secrets/initialAdminPassword - Enter the Administrator password
